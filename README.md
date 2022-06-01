@@ -1,4 +1,4 @@
-# covid-data
+# covid-monitor
 Data repository for the MCID project to monitor the SARS-CoV-2 epidemic in near real-time
 
 Data | Directory | Variable(s) | Region | Resolution | Format
