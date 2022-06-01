@@ -3,7 +3,7 @@ Data repository for the [MCID project](https://www.mcid.unibe.ch/call_for_projec
 
 Data | Directory | Variable(s) | Region | Resolution | Format | Reference
 ---- | --------- | ----------- | ------ | ---------- | ------ | ---------
-Mobility | [mobility](mobility) | Relative mobility | By type, age, region | Daily | CSV | [Intervista](https://www.intervista.ch/media/Report_Mobilitäts-Monitoring_Covid-19.pdf)), [statistikZH](https://github.com/statistikZH/covid19monitoring_mobility_intervista)
+Mobility | [mobility](mobility) | Relative mobility | By type, age, region | Daily | CSV | [Intervista](https://www.intervista.ch/media/Report_Mobilitäts-Monitoring_Covid-19.pdf), [statistikZH](https://github.com/statistikZH/covid19monitoring_mobility_intervista)
 Mobility | [mobility](mobility) | Relative mobility | By type and canton | Daily | CSV | [Google](https://www.google.com/covid19/mobility/)
 Wastewater | [wastewater](wastewater) | RNA copies | Sensetal/Laupen | Daily | CSV | [Eawag](https://sensors-eawag.ch/sars/overview.html)
 
